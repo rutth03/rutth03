@@ -6,7 +6,7 @@ Soy apasionada por el desarrollo web y la creación de soluciones tecnológicas.
 
 ### 📚 Educación y Formación
 
-* **Certificación Avanzada Full Stack Developer (Stack MERN)** — *ITBA (Instituto Tecnológico de Buenos Aires) - (En Curso)*
+* **Certificación Avanzada Full Stack Developer (Stack MERN)** — *ITBA Educación Ejecutiva (Instituto Tecnológico de Buenos Aires) - (En Curso)*
 * **Tecnicatura Universitaria en Desarrollo de Software** — *UPATecO (Universidad Provincial de la Administración, Tecnología y Oficios - Salta) - (2025)*
 * **Licenciatura en Análisis de Sistemas / Tecnicatura en Programación** — *UNSa (Universidad Nacional de Salta) - (En Curso)*
 ---
